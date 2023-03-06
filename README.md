@@ -1,5 +1,8 @@
 # San Diego food (圣地亚哥美食)
 
+### 鉴于常年找不到人约饭，我决定更新一个Solo版本的SD食谱。原始版本参见：https://github.com/byshen/sdfood
+
+### 目前全部来自于原始版本= =
 ## 标准
 
 Price (before pandemic) （include 15% tips)
